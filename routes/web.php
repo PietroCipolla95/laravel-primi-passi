@@ -25,7 +25,7 @@ Route::get('/', function () {
     return view('homepage', $data);
 });
 
-Route::get('/aboutus', function () {
+Route::get('/about', function () {
 
     $data = [
         'title' => 'Hello About Us 📚',
@@ -33,5 +33,16 @@ Route::get('/aboutus', function () {
     ];
 
 
-    return view('aboutus', $data);
+    return view('about', $data);
+});
+
+Route::get('/contact', function () {
+
+    $data = [
+        'title' => 'Hello Contact Us 📧',
+        'sub_title' => 'brought by Laravel 😁',
+    ];
+
+
+    return view('contact', $data);
 });

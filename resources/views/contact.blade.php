@@ -18,13 +18,13 @@
         <nav class="navbar navbar-expand navbar-dark bg-dark d-flex justify-content-center py-4">
             <ul class="nav navbar-nav align-items-center">
                 <li class="nav-item">
-                    <a class="nav-link text-danger" href="#">Contacts</a>
+                    <a class="nav-link text-danger" href="/">Home</a>
                 </li>
                 <li class="nav-item mx-5">
-                    <a class="nav-link text-danger border border-danger px-5 fs-3" href="#">About Us</a>
+                    <a class="nav-link text-danger border border-danger px-5 fs-3" href="#">Contacts</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-danger" href="/">Home</a>
+                    <a class="nav-link text-danger" href="/about">About Us</a>
                 </li>
             </ul>
         </nav>
