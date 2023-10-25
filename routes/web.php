@@ -24,3 +24,14 @@ Route::get('/', function () {
 
     return view('homepage', $data);
 });
+
+Route::get('/aboutus', function () {
+
+    $data = [
+        'title' => 'Hello About Us 📚',
+        'sub_title' => 'brought by Laravel 😁',
+    ];
+
+
+    return view('aboutus', $data);
+});
