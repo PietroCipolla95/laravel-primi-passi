@@ -28,7 +28,7 @@ Route::get('/', function () {
 Route::get('/about', function () {
 
     $data = [
-        'title' => 'Hello About Us 📚',
+        'title' => 'Hello About 📚',
         'sub_title' => 'brought by Laravel 😁',
     ];
 
@@ -39,7 +39,7 @@ Route::get('/about', function () {
 Route::get('/contact', function () {
 
     $data = [
-        'title' => 'Hello Contact Us 📧',
+        'title' => 'Hello Contact 📧',
         'sub_title' => 'brought by Laravel 😁',
     ];
 
