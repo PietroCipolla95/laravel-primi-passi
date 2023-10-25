@@ -39,6 +39,18 @@
             {{$sub_title}}
         </h6>
 
+        <div class="px-5 my-5 d-flex justify-content-between">
+            <p class="w-25 my-3 p-3 border-start border-top border-info">
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure, impedit mollitia sequi dolore vel inventore voluptatum labore deleniti incidunt eius fugit odit distinctio veniam accusamus rem quaerat facere, facilis fuga aliquid, corporis aut soluta! Recusandae optio tempore alias quidem! Recusandae, enim veritatis consectetur distinctio aut ducimus repellendus labore sit voluptates? Omnis suscipit quod animi aliquam asperiores illo excepturi aperiam pariatur officia natus. Eum cupiditate aliquam earum. A ipsa soluta deleniti, consequuntur dicta possimus.
+            </p>
+            <p class="w-25 my-3 p-3 border-top border-info">
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure, impedit mollitia sequi dolore vel inventore voluptatum labore deleniti incidunt eius fugit odit distinctio veniam accusamus rem quaerat facere, facilis fuga aliquid, corporis aut soluta! Recusandae optio tempore alias quidem! Recusandae, enim veritatis consectetur distinctio aut ducimus repellendus labore sit voluptates? Omnis suscipit quod animi aliquam asperiores illo excepturi aperiam pariatur officia natus. Eum cupiditate aliquam earum. A ipsa soluta deleniti, consequuntur dicta possimus.
+            </p>
+            <p class="w-25 my-3 p-3 border-end border-top border-info">
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure, impedit mollitia sequi dolore vel inventore voluptatum labore deleniti incidunt eius fugit odit distinctio veniam accusamus rem quaerat facere, facilis fuga aliquid, corporis aut soluta! Recusandae optio tempore alias quidem! Recusandae, enim veritatis consectetur distinctio aut ducimus repellendus labore sit voluptates? Omnis suscipit quod animi aliquam asperiores illo excepturi aperiam pariatur officia natus. Eum cupiditate aliquam earum. A ipsa soluta deleniti, consequuntur dicta possimus.
+            </p>
+        </div>
+
 
 
     </main>

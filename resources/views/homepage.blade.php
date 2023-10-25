@@ -40,12 +40,17 @@
         </h6>
 
         <div class="px-5 my-5">
-            <span class="text-info fs-4 fw-bold">
-                {{$message}}
-            </span>
-            <p class="w-25 my-3 p-3 border-start border-top border-black">
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure, impedit mollitia sequi dolore vel inventore voluptatum labore deleniti incidunt eius fugit odit distinctio veniam accusamus rem quaerat facere, facilis fuga aliquid, corporis aut soluta! Recusandae optio tempore alias quidem! Recusandae, enim veritatis consectetur distinctio aut ducimus repellendus labore sit voluptates? Omnis suscipit quod animi aliquam asperiores illo excepturi aperiam pariatur officia natus. Eum cupiditate aliquam earum. A ipsa soluta deleniti, consequuntur dicta possimus. Totam expedita excepturi ducimus eaque doloremque vero, molestiae obcaecati omnis nemo reprehenderit libero. Doloremque sint ipsa eum nemo dolorum? Omnis, inventore ducimus in sit distinctio odit ratione?
-            </p>
+            <div class="d-flex justify-content-between align-items-center py-5">
+                <p class="w-25 my-3 p-3 border-start border-top border-black">
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure, impedit mollitia sequi dolore vel inventore voluptatum labore deleniti incidunt eius fugit odit distinctio veniam accusamus rem quaerat facere, facilis fuga aliquid, corporis aut soluta! Recusandae optio tempore alias quidem! Recusandae, enim veritatis consectetur distinctio aut ducimus repellendus labore sit voluptates? Omnis suscipit quod animi aliquam asperiores illo excepturi aperiam pariatur officia natus. Eum cupiditate aliquam earum. A ipsa soluta deleniti, consequuntur dicta possimus. Totam expedita excepturi ducimus eaque doloremque vero, molestiae obcaecati omnis nemo reprehenderit libero. Doloremque sint ipsa eum nemo dolorum? Omnis, inventore ducimus in sit distinctio odit ratione?
+                </p>
+                <span class="text-info fs-4 fw-bold">
+                    {{$message}}
+                </span>
+                <p class="w-25 my-3 p-3 border-end border-top border-black">
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure, impedit mollitia sequi dolore vel inventore voluptatum labore deleniti incidunt eius fugit odit distinctio veniam accusamus rem quaerat facere, facilis fuga aliquid, corporis aut soluta! Recusandae optio tempore alias quidem! Recusandae, enim veritatis consectetur distinctio aut ducimus repellendus labore sit voluptates? Omnis suscipit quod animi aliquam asperiores illo excepturi aperiam pariatur officia natus. Eum cupiditate aliquam earum. A ipsa soluta deleniti, consequuntur dicta possimus. Totam expedita excepturi ducimus eaque doloremque vero, molestiae obcaecati omnis nemo reprehenderit libero. Doloremque sint ipsa eum nemo dolorum? Omnis, inventore ducimus in sit distinctio odit ratione?
+                </p>
+            </div>
         </div>
 
 
